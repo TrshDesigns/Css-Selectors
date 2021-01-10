@@ -1,0 +1,132 @@
+*{
+/*color: violet*/ /*Universal selector / selects all the site */
+/*change margin of the website to 3% */	margin: 3%;
+}
+h1{
+/*change color to red*/	                color: red /*Type Selector/ selects the tag h1*/
+}
+input{
+/*change color to blue*/	            color: blue /*Type Selector/ selects the tag input*/
+}
+p{
+/*change color to green*/	            color: green /*Type Selector/ selects the tag p */
+}
+button{
+/*change background color to red*/      background-color: red; /*Type Selector/ selects the tag button*/
+/*change color to black*/	            color:black;
+}
+h4{
+	color:cyan;
+}
+.h33{
+/*change color to purple*/	            color: purple; /*Class Selector/ selects the class h33*/ 
+}
+#id-color{
+/*change color to red*/	                color: red; /*Id Selector/ selects the id id-color*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container{
+	background: rgb(235,235,245);
+	 border:solid white 0.5px;
+	 border-radius: 15px;
+	     box-shadow: 3px 2px 2px rgba(0, 0, 0, 0.2)
+}
+.center{
+	text-align:center;
+	position:center;
+}
